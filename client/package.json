@@ -40,6 +40,10 @@
       "react-app/jest"
     ]
   },
+   "devServer": {
+     "allowedHosts": "all"
+
+ },    
   "browserslist": {
     "production": [
       ">0.2%",
